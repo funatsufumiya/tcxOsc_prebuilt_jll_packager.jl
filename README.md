@@ -1,6 +1,6 @@
-# TrussC_prebuilt_jll_packager.jl
+# tcxOsc_prebuilt_jll_packager.jl
 
-This repository is used to create [TrussC_prebuilt_jll](https://github.com/funatsufumiya/TrussC_prebuilt_jll) automatically
+This repository is used to create [tcxOsc_prebuilt_jll](https://github.com/funatsufumiya/tcxOsc_prebuilt_jll) automatically
 
 ## Usage
 
@@ -20,4 +20,4 @@ This repository is used to create [TrussC_prebuilt_jll](https://github.com/funat
 
 ## Develop
 
-In order to build libTrussC.dll/so/dylib see https://github.com/funatsufumiya/tcxJuliaCxxWrap
+In order to build dll/so/dylib see https://github.com/funatsufumiya/tcxOscJlWrap
